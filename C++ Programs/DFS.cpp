@@ -1,6 +1,3 @@
-//DSA ASSIGNMENT, QUESTION 7.
-//UI19CO27
-
 #include<iostream>
 #include<conio.h>
 using namespace std;
@@ -27,21 +24,7 @@ class Graph
         }
 };
 
-/**class Stack
-{
-public:
-    int head=-1,s[100];
-    void push(int x)
-    {
-        head++;
-        s[head]=x;
-    }
-    int pop()
-    {
-        head--;
-        return s[head+1];
-    }
-};**/
+
 
 void dfsTrav(Graph g, int start, int v[])
 {
@@ -56,7 +39,6 @@ void dfsTrav(Graph g, int start, int v[])
 
 int main()
 {
-    cout<<"Que. 7\n...........\n\n";
     Graph g;
     cout<<"ENTER THE STARTING VERTEX FOR DFS TRAVERSAL: ";
     int start,visited[g.v]={0},c=0;

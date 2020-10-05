@@ -1,5 +1,3 @@
-//DSA Q10
-//UI19CO27
 #include<iostream>
 #include<string.h>
 #include<conio.h>
@@ -20,7 +18,7 @@ int find(char str[],char pat[],int pos)
 int main()
 {
     char str[1000],pat[1000],rep[1000];
-    cout<<"Q10\n..........\nENTER STR, PAT, REP STRINGS:\n";
+    cout<<"ENTER STR, PAT, REP STRINGS:\n";
     cin>>str>>pat>>rep;
     cout<<"\nString STR after processing:\n";
     int count=0,i,j,k;

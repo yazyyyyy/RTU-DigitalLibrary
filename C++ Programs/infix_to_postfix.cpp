@@ -33,7 +33,6 @@ int main()
 {
     char s[100];
     Stack x;
-    cout<<"Que 8\n..........\n";
     cout<<"ENTER THE INFIX EXPRESSION: ";
     cin>>s;
     cout<<"\n\nPOSTFIX EXPRESSION: ";
