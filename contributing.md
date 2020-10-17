@@ -18,4 +18,4 @@ git commit -m "(brief description of what you have changed/fixed)"
 git push -u origin (branch name)
 ```
 5. Go and open a pull request from your fork to the master branch of this repository. 🎉
-6. Please ⭐ this repo to make it more visible to new contributors.
+6. Please ⭐ (star) this repo to make it more visible to new contributors.
