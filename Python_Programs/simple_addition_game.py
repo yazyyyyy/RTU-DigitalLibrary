@@ -1,9 +1,3 @@
-"""
-File: khansole_academy.py
--------------------------
-Add your comments here.
-"""
-
 import random
 
 
